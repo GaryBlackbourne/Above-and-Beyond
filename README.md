@@ -29,6 +29,9 @@ Build a new release with `./build.sh`
 ### Dependencies
 
 - bash
+- zip
+- wget
+- curl
 - jq
 
 ## Contributing
