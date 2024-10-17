@@ -23,7 +23,13 @@ Download the [latest release](https://github.com/kiskoza/Above-and-Beyond/releas
 
 ## Development
 
+Get an API key, and put it in `.env`
 Build a new release with `./build.sh`
+
+### Dependencies
+
+- bash
+- jq
 
 ## Contributing
 
